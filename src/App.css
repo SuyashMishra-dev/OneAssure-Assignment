@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.pointer {
+  cursor: pointer;
+}
+
+.active-page {
+  color: rgb(104, 39, 179);
+}
